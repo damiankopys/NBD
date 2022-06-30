@@ -1,0 +1,622 @@
+MongoDB shell version v5.0.7
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("71ed6029-4fbd-4b80-ad81-afa6a86a1160") }
+MongoDB server version: 5.0.6
+[
+	{
+		"currency" : "JMD",
+		"sum_of_ballance" : NumberDecimal("201447.71")
+	},
+	{
+		"currency" : "TRY",
+		"sum_of_ballance" : NumberDecimal("18414.53")
+	},
+	{
+		"currency" : "SRD",
+		"sum_of_ballance" : NumberDecimal("19686.77")
+	},
+	{
+		"currency" : "AUD",
+		"sum_of_ballance" : NumberDecimal("242667.03")
+	},
+	{
+		"currency" : "MGA",
+		"sum_of_ballance" : NumberDecimal("377675.55")
+	},
+	{
+		"currency" : "PGK",
+		"sum_of_ballance" : NumberDecimal("61445.27")
+	},
+	{
+		"currency" : "FKP",
+		"sum_of_ballance" : NumberDecimal("5118.97")
+	},
+	{
+		"currency" : "BND",
+		"sum_of_ballance" : NumberDecimal("7782.66")
+	},
+	{
+		"currency" : "RWF",
+		"sum_of_ballance" : NumberDecimal("43299.96")
+	},
+	{
+		"currency" : "YER",
+		"sum_of_ballance" : NumberDecimal("583657.38")
+	},
+	{
+		"currency" : "LKR",
+		"sum_of_ballance" : NumberDecimal("225111.39")
+	},
+	{
+		"currency" : "NGN",
+		"sum_of_ballance" : NumberDecimal("1282147.14")
+	},
+	{
+		"currency" : "SEK",
+		"sum_of_ballance" : NumberDecimal("3706221.01")
+	},
+	{
+		"currency" : "QAR",
+		"sum_of_ballance" : NumberDecimal("36358.92")
+	},
+	{
+		"currency" : "XCD",
+		"sum_of_ballance" : NumberDecimal("168150.01")
+	},
+	{
+		"currency" : "ETB",
+		"sum_of_ballance" : NumberDecimal("269686.62")
+	},
+	{
+		"currency" : "SZL",
+		"sum_of_ballance" : NumberDecimal("59113.09")
+	},
+	{
+		"currency" : "RSD",
+		"sum_of_ballance" : NumberDecimal("817403.54")
+	},
+	{
+		"currency" : "EGP",
+		"sum_of_ballance" : NumberDecimal("528336.14")
+	},
+	{
+		"currency" : "BYR",
+		"sum_of_ballance" : NumberDecimal("686489.84")
+	},
+	{
+		"currency" : "GBP",
+		"sum_of_ballance" : NumberDecimal("243512.86")
+	},
+	{
+		"currency" : "MMK",
+		"sum_of_ballance" : NumberDecimal("223284.76")
+	},
+	{
+		"currency" : "KMF",
+		"sum_of_ballance" : NumberDecimal("138004.70")
+	},
+	{
+		"currency" : "LRD",
+		"sum_of_ballance" : NumberDecimal("54883.45")
+	},
+	{
+		"currency" : "STD",
+		"sum_of_ballance" : NumberDecimal("4854.36")
+	},
+	{
+		"currency" : "CVE",
+		"sum_of_ballance" : NumberDecimal("46538.51")
+	},
+	{
+		"currency" : "NZD",
+		"sum_of_ballance" : NumberDecimal("338447.54")
+	},
+	{
+		"currency" : "BTN",
+		"sum_of_ballance" : NumberDecimal("37711.08")
+	},
+	{
+		"currency" : "SSP",
+		"sum_of_ballance" : NumberDecimal("42256.53")
+	},
+	{
+		"currency" : "BGN",
+		"sum_of_ballance" : NumberDecimal("496641.83")
+	},
+	{
+		"currency" : "DKK",
+		"sum_of_ballance" : NumberDecimal("222452.28")
+	},
+	{
+		"currency" : "KZT",
+		"sum_of_ballance" : NumberDecimal("584923.20")
+	},
+	{
+		"currency" : "PEN",
+		"sum_of_ballance" : NumberDecimal("2356548.02")
+	},
+	{
+		"currency" : "OMR",
+		"sum_of_ballance" : NumberDecimal("87008.08")
+	},
+	{
+		"currency" : "VEF",
+		"sum_of_ballance" : NumberDecimal("629053.41")
+	},
+	{
+		"currency" : "HUF",
+		"sum_of_ballance" : NumberDecimal("165192.16")
+	},
+	{
+		"currency" : "GTQ",
+		"sum_of_ballance" : NumberDecimal("588368.85")
+	},
+	{
+		"currency" : "BRL",
+		"sum_of_ballance" : NumberDecimal("5609900.00")
+	},
+	{
+		"currency" : "SOS",
+		"sum_of_ballance" : NumberDecimal("82203.48")
+	},
+	{
+		"currency" : "LBP",
+		"sum_of_ballance" : NumberDecimal("43326.06")
+	},
+	{
+		"currency" : "ERN",
+		"sum_of_ballance" : NumberDecimal("21598.47")
+	},
+	{
+		"currency" : "CDF",
+		"sum_of_ballance" : NumberDecimal("178097.37")
+	},
+	{
+		"currency" : "NAD",
+		"sum_of_ballance" : NumberDecimal("55420.34")
+	},
+	{
+		"currency" : "XAF",
+		"sum_of_ballance" : NumberDecimal("736336.77")
+	},
+	{
+		"currency" : "TMT",
+		"sum_of_ballance" : NumberDecimal("113099.62")
+	},
+	{
+		"currency" : "UAH",
+		"sum_of_ballance" : NumberDecimal("2505840.72")
+	},
+	{
+		"currency" : "IQD",
+		"sum_of_ballance" : NumberDecimal("167531.82")
+	},
+	{
+		"currency" : "SGD",
+		"sum_of_ballance" : NumberDecimal("12820.48")
+	},
+	{
+		"currency" : "AFN",
+		"sum_of_ballance" : NumberDecimal("661834.75")
+	},
+	{
+		"currency" : "TZS",
+		"sum_of_ballance" : NumberDecimal("603855.99")
+	},
+	{
+		"currency" : "LTL",
+		"sum_of_ballance" : NumberDecimal("220627.42")
+	},
+	{
+		"currency" : "TND",
+		"sum_of_ballance" : NumberDecimal("325755.90")
+	},
+	{
+		"currency" : "DZD",
+		"sum_of_ballance" : NumberDecimal("12166.20")
+	},
+	{
+		"currency" : "CZK",
+		"sum_of_ballance" : NumberDecimal("2644211.16")
+	},
+	{
+		"currency" : "LAK",
+		"sum_of_ballance" : NumberDecimal("86305.05")
+	},
+	{
+		"currency" : "WST",
+		"sum_of_ballance" : NumberDecimal("30739.64")
+	},
+	{
+		"currency" : "INR",
+		"sum_of_ballance" : NumberDecimal("24172.94")
+	},
+	{
+		"currency" : "ALL",
+		"sum_of_ballance" : NumberDecimal("651597.87")
+	},
+	{
+		"currency" : "GYD",
+		"sum_of_ballance" : NumberDecimal("13053.50")
+	},
+	{
+		"currency" : "TWD",
+		"sum_of_ballance" : NumberDecimal("37654.00")
+	},
+	{
+		"currency" : "KYD",
+		"sum_of_ballance" : NumberDecimal("16809.66")
+	},
+	{
+		"currency" : "BAM",
+		"sum_of_ballance" : NumberDecimal("415965.47")
+	},
+	{
+		"currency" : "PLN",
+		"sum_of_ballance" : NumberDecimal("5065861.53")
+	},
+	{
+		"currency" : "CNY",
+		"sum_of_ballance" : NumberDecimal("27425502.27")
+	},
+	{
+		"currency" : "ZAR",
+		"sum_of_ballance" : NumberDecimal("932463.66")
+	},
+	{
+		"currency" : "XPF",
+		"sum_of_ballance" : NumberDecimal("132926.01")
+	},
+	{
+		"currency" : "KHR",
+		"sum_of_ballance" : NumberDecimal("100447.58")
+	},
+	{
+		"currency" : "MNT",
+		"sum_of_ballance" : NumberDecimal("639977.48")
+	},
+	{
+		"currency" : "UZS",
+		"sum_of_ballance" : NumberDecimal("330309.61")
+	},
+	{
+		"currency" : "VUV",
+		"sum_of_ballance" : NumberDecimal("23188.93")
+	},
+	{
+		"currency" : "JOD",
+		"sum_of_ballance" : NumberDecimal("210496.68")
+	},
+	{
+		"currency" : "CRC",
+		"sum_of_ballance" : NumberDecimal("334544.06")
+	},
+	{
+		"currency" : "PKR",
+		"sum_of_ballance" : NumberDecimal("687770.55")
+	},
+	{
+		"currency" : "KGS",
+		"sum_of_ballance" : NumberDecimal("176827.79")
+	},
+	{
+		"currency" : "MWK",
+		"sum_of_ballance" : NumberDecimal("88106.83")
+	},
+	{
+		"currency" : "CHF",
+		"sum_of_ballance" : NumberDecimal("108940.64")
+	},
+	{
+		"currency" : "COP",
+		"sum_of_ballance" : NumberDecimal("1976194.79")
+	},
+	{
+		"currency" : "HTG",
+		"sum_of_ballance" : NumberDecimal("215992.13")
+	},
+	{
+		"currency" : "UYU",
+		"sum_of_ballance" : NumberDecimal("231996.14")
+	},
+	{
+		"currency" : "SLL",
+		"sum_of_ballance" : NumberDecimal("116224.90")
+	},
+	{
+		"currency" : "DOP",
+		"sum_of_ballance" : NumberDecimal("534069.77")
+	},
+	{
+		"currency" : "SBD",
+		"sum_of_ballance" : NumberDecimal("9983.00")
+	},
+	{
+		"currency" : "BMD",
+		"sum_of_ballance" : NumberDecimal("5189.0")
+	},
+	{
+		"currency" : "GMD",
+		"sum_of_ballance" : NumberDecimal("157963.90")
+	},
+	{
+		"currency" : "SAR",
+		"sum_of_ballance" : NumberDecimal("161706.00")
+	},
+	{
+		"currency" : "TOP",
+		"sum_of_ballance" : NumberDecimal("18424.47")
+	},
+	{
+		"currency" : "BHD",
+		"sum_of_ballance" : NumberDecimal("22698.46")
+	},
+	{
+		"currency" : "BDT",
+		"sum_of_ballance" : NumberDecimal("294843.38")
+	},
+	{
+		"currency" : "MZN",
+		"sum_of_ballance" : NumberDecimal("92068.64")
+	},
+	{
+		"currency" : "BOB",
+		"sum_of_ballance" : NumberDecimal("257433.54")
+	},
+	{
+		"currency" : "MYR",
+		"sum_of_ballance" : NumberDecimal("666533.65")
+	},
+	{
+		"currency" : "NOK",
+		"sum_of_ballance" : NumberDecimal("760113.61")
+	},
+	{
+		"currency" : "UGX",
+		"sum_of_ballance" : NumberDecimal("345203.25")
+	},
+	{
+		"currency" : "GNF",
+		"sum_of_ballance" : NumberDecimal("73222.48")
+	},
+	{
+		"currency" : "TTD",
+		"sum_of_ballance" : NumberDecimal("44044.89")
+	},
+	{
+		"currency" : "KES",
+		"sum_of_ballance" : NumberDecimal("269798.11")
+	},
+	{
+		"currency" : "BIF",
+		"sum_of_ballance" : NumberDecimal("45782.33")
+	},
+	{
+		"currency" : "AMD",
+		"sum_of_ballance" : NumberDecimal("602964.09")
+	},
+	{
+		"currency" : "HNL",
+		"sum_of_ballance" : NumberDecimal("817695.24")
+	},
+	{
+		"currency" : "HRK",
+		"sum_of_ballance" : NumberDecimal("689403.50")
+	},
+	{
+		"currency" : "NIO",
+		"sum_of_ballance" : NumberDecimal("240664.87")
+	},
+	{
+		"currency" : "NPR",
+		"sum_of_ballance" : NumberDecimal("146606.65")
+	},
+	{
+		"currency" : "RON",
+		"sum_of_ballance" : NumberDecimal("11557.60")
+	},
+	{
+		"currency" : "IDR",
+		"sum_of_ballance" : NumberDecimal("15619806.11")
+	},
+	{
+		"currency" : "VND",
+		"sum_of_ballance" : NumberDecimal("1395639.11")
+	},
+	{
+		"currency" : "PYG",
+		"sum_of_ballance" : NumberDecimal("286515.48")
+	},
+	{
+		"currency" : "ANG",
+		"sum_of_ballance" : NumberDecimal("21354.39")
+	},
+	{
+		"currency" : "RUB",
+		"sum_of_ballance" : NumberDecimal("8532474.09")
+	},
+	{
+		"currency" : "MDL",
+		"sum_of_ballance" : NumberDecimal("173318.73")
+	},
+	{
+		"currency" : "HKD",
+		"sum_of_ballance" : NumberDecimal("23023.02")
+	},
+	{
+		"currency" : "MKD",
+		"sum_of_ballance" : NumberDecimal("436912.01")
+	},
+	{
+		"currency" : "BBD",
+		"sum_of_ballance" : NumberDecimal("26720.50")
+	},
+	{
+		"currency" : "CUP",
+		"sum_of_ballance" : NumberDecimal("514413.88")
+	},
+	{
+		"currency" : "LYD",
+		"sum_of_ballance" : NumberDecimal("197545.65")
+	},
+	{
+		"currency" : "CLP",
+		"sum_of_ballance" : NumberDecimal("388620.14")
+	},
+	{
+		"currency" : "AED",
+		"sum_of_ballance" : NumberDecimal("52973.33")
+	},
+	{
+		"currency" : "AOA",
+		"sum_of_ballance" : NumberDecimal("67582.80")
+	},
+	{
+		"currency" : "TJS",
+		"sum_of_ballance" : NumberDecimal("177401.05")
+	},
+	{
+		"currency" : "MOP",
+		"sum_of_ballance" : NumberDecimal("5337.77")
+	},
+	{
+		"currency" : "MAD",
+		"sum_of_ballance" : NumberDecimal("510936.11")
+	},
+	{
+		"currency" : "SYP",
+		"sum_of_ballance" : NumberDecimal("501467.35")
+	},
+	{
+		"currency" : "ISK",
+		"sum_of_ballance" : NumberDecimal("39048.74")
+	},
+	{
+		"currency" : "DJF",
+		"sum_of_ballance" : NumberDecimal("14734.27")
+	},
+	{
+		"currency" : "PAB",
+		"sum_of_ballance" : NumberDecimal("363643.61")
+	},
+	{
+		"currency" : "ILS",
+		"sum_of_ballance" : NumberDecimal("758807.63")
+	},
+	{
+		"currency" : "EUR",
+		"sum_of_ballance" : NumberDecimal("16700089.28")
+	},
+	{
+		"currency" : "LSL",
+		"sum_of_ballance" : NumberDecimal("26269.07")
+	},
+	{
+		"currency" : "FJD",
+		"sum_of_ballance" : NumberDecimal("9321.43")
+	},
+	{
+		"currency" : "MUR",
+		"sum_of_ballance" : NumberDecimal("182130.48")
+	},
+	{
+		"currency" : "MRO",
+		"sum_of_ballance" : NumberDecimal("44471.32")
+	},
+	{
+		"currency" : "KWD",
+		"sum_of_ballance" : NumberDecimal("82506.07")
+	},
+	{
+		"currency" : "BZD",
+		"sum_of_ballance" : NumberDecimal("24296.69")
+	},
+	{
+		"currency" : "SCR",
+		"sum_of_ballance" : NumberDecimal("14797.58")
+	},
+	{
+		"currency" : "ZWL",
+		"sum_of_ballance" : NumberDecimal("142978.86")
+	},
+	{
+		"currency" : "JPY",
+		"sum_of_ballance" : NumberDecimal("2584824.90")
+	},
+	{
+		"currency" : "PHP",
+		"sum_of_ballance" : NumberDecimal("8223429.02")
+	},
+	{
+		"currency" : "ARS",
+		"sum_of_ballance" : NumberDecimal("1940347.24")
+	},
+	{
+		"currency" : "BWP",
+		"sum_of_ballance" : NumberDecimal("146972.04")
+	},
+	{
+		"currency" : "AZN",
+		"sum_of_ballance" : NumberDecimal("394880.17")
+	},
+	{
+		"currency" : "SDG",
+		"sum_of_ballance" : NumberDecimal("127317.75")
+	},
+	{
+		"currency" : "USD",
+		"sum_of_ballance" : NumberDecimal("4086760.81")
+	},
+	{
+		"currency" : "CAD",
+		"sum_of_ballance" : NumberDecimal("1973241.60")
+	},
+	{
+		"currency" : "AWG",
+		"sum_of_ballance" : NumberDecimal("7282.73")
+	},
+	{
+		"currency" : "GHS",
+		"sum_of_ballance" : NumberDecimal("83159.05")
+	},
+	{
+		"currency" : "KRW",
+		"sum_of_ballance" : NumberDecimal("433497.06")
+	},
+	{
+		"currency" : "THB",
+		"sum_of_ballance" : NumberDecimal("2084269.88")
+	},
+	{
+		"currency" : "MXN",
+		"sum_of_ballance" : NumberDecimal("1547673.09")
+	},
+	{
+		"currency" : "BSD",
+		"sum_of_ballance" : NumberDecimal("55361.39")
+	},
+	{
+		"currency" : "KPW",
+		"sum_of_ballance" : NumberDecimal("222518.63")
+	},
+	{
+		"currency" : "ZMW",
+		"sum_of_ballance" : NumberDecimal("160940.53")
+	},
+	{
+		"currency" : "IRR",
+		"sum_of_ballance" : NumberDecimal("804397.05")
+	},
+	{
+		"currency" : "GEL",
+		"sum_of_ballance" : NumberDecimal("157276.96")
+	},
+	{
+		"currency" : "XOF",
+		"sum_of_ballance" : NumberDecimal("934043.61")
+	},
+	{
+		"currency" : "MVR",
+		"sum_of_ballance" : NumberDecimal("32068.85")
+	}
+]

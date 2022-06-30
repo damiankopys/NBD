@@ -1,0 +1,594 @@
+MongoDB shell version v5.0.7
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("76ba7156-e2c4-47ed-8713-ab1845092bf6") }
+MongoDB server version: 5.0.6
+[
+	{
+		"job_name" : "Software Engineer IV"
+	},
+	{
+		"job_name" : "Accounting Assistant IV"
+	},
+	{
+		"job_name" : "VP Quality Control"
+	},
+	{
+		"job_name" : "Account Executive"
+	},
+	{
+		"job_name" : "Developer I"
+	},
+	{
+		"job_name" : "Database Administrator I"
+	},
+	{
+		"job_name" : "Professor"
+	},
+	{
+		"job_name" : "Administrative Officer"
+	},
+	{
+		"job_name" : "Accounting Assistant II"
+	},
+	{
+		"job_name" : "Teacher"
+	},
+	{
+		"job_name" : "Automation Specialist IV"
+	},
+	{
+		"job_name" : "Budget/Accounting Analyst III"
+	},
+	{
+		"job_name" : "Financial Advisor"
+	},
+	{
+		"job_name" : "Research Nurse"
+	},
+	{
+		"job_name" : "Database Administrator II"
+	},
+	{
+		"job_name" : "Budget/Accounting Analyst IV"
+	},
+	{
+		"job_name" : "Systems Administrator II"
+	},
+	{
+		"job_name" : "Health Coach IV"
+	},
+	{
+		"job_name" : "Computer Systems Analyst I"
+	},
+	{
+		"job_name" : "Research Assistant III"
+	},
+	{
+		"job_name" : "Sales Associate"
+	},
+	{
+		"job_name" : "Systems Administrator IV"
+	},
+	{
+		"job_name" : "Web Designer III"
+	},
+	{
+		"job_name" : "Pharmacist"
+	},
+	{
+		"job_name" : "Statistician II"
+	},
+	{
+		"job_name" : "Accountant I"
+	},
+	{
+		"job_name" : "Human Resources Assistant I"
+	},
+	{
+		"job_name" : "Paralegal"
+	},
+	{
+		"job_name" : "Health Coach III"
+	},
+	{
+		"job_name" : "Computer Systems Analyst III"
+	},
+	{
+		"job_name" : "Database Administrator IV"
+	},
+	{
+		"job_name" : "Database Administrator III"
+	},
+	{
+		"job_name" : "Assistant Manager"
+	},
+	{
+		"job_name" : "Structural Analysis Engineer"
+	},
+	{
+		"job_name" : "Junior Executive"
+	},
+	{
+		"job_name" : "Programmer Analyst II"
+	},
+	{
+		"job_name" : "Administrative Assistant IV"
+	},
+	{
+		"job_name" : "Media Manager IV"
+	},
+	{
+		"job_name" : "Account Representative I"
+	},
+	{
+		"job_name" : "Speech Pathologist"
+	},
+	{
+		"job_name" : "Marketing Manager"
+	},
+	{
+		"job_name" : "Director of Sales"
+	},
+	{
+		"job_name" : "Budget/Accounting Analyst I"
+	},
+	{
+		"job_name" : "Automation Specialist I"
+	},
+	{
+		"job_name" : "Staff Accountant I"
+	},
+	{
+		"job_name" : "Programmer I"
+	},
+	{
+		"job_name" : "Office Assistant III"
+	},
+	{
+		"job_name" : "Safety Technician IV"
+	},
+	{
+		"job_name" : "Data Coordiator"
+	},
+	{
+		"job_name" : "Media Manager I"
+	},
+	{
+		"job_name" : "Geologist II"
+	},
+	{
+		"job_name" : "VP Accounting"
+	},
+	{
+		"job_name" : "Research Assistant II"
+	},
+	{
+		"job_name" : "Executive Secretary"
+	},
+	{
+		"job_name" : "Web Designer IV"
+	},
+	{
+		"job_name" : "Clinical Specialist"
+	},
+	{
+		"job_name" : "Computer Systems Analyst IV"
+	},
+	{
+		"job_name" : "Senior Editor"
+	},
+	{
+		"job_name" : "Programmer Analyst IV"
+	},
+	{
+		"job_name" : "Office Assistant II"
+	},
+	{
+		"job_name" : "Computer Systems Analyst II"
+	},
+	{
+		"job_name" : "Help Desk Technician"
+	},
+	{
+		"job_name" : "Programmer II"
+	},
+	{
+		"job_name" : "Desktop Support Technician"
+	},
+	{
+		"job_name" : "Office Assistant I"
+	},
+	{
+		"job_name" : "Electrical Engineer"
+	},
+	{
+		"job_name" : "Automation Specialist III"
+	},
+	{
+		"job_name" : "Technical Writer"
+	},
+	{
+		"job_name" : "Accounting Assistant III"
+	},
+	{
+		"job_name" : "Web Developer I"
+	},
+	{
+		"job_name" : "Environmental Tech"
+	},
+	{
+		"job_name" : "Civil Engineer"
+	},
+	{
+		"job_name" : "Community Outreach Specialist"
+	},
+	{
+		"job_name" : "Nurse Practicioner"
+	},
+	{
+		"job_name" : "Compensation Analyst"
+	},
+	{
+		"job_name" : "Graphic Designer"
+	},
+	{
+		"job_name" : "Account Representative III"
+	},
+	{
+		"job_name" : "Product Engineer"
+	},
+	{
+		"job_name" : "Programmer IV"
+	},
+	{
+		"job_name" : "Senior Developer"
+	},
+	{
+		"job_name" : "Accountant IV"
+	},
+	{
+		"job_name" : "VP Marketing"
+	},
+	{
+		"job_name" : "Assistant Professor"
+	},
+	{
+		"job_name" : "Recruiter"
+	},
+	{
+		"job_name" : "Statistician IV"
+	},
+	{
+		"job_name" : "Project Manager"
+	},
+	{
+		"job_name" : "Food Chemist"
+	},
+	{
+		"job_name" : "Web Developer IV"
+	},
+	{
+		"job_name" : "Chief Design Engineer"
+	},
+	{
+		"job_name" : "GIS Technical Architect"
+	},
+	{
+		"job_name" : "Systems Administrator I"
+	},
+	{
+		"job_name" : "Tax Accountant"
+	},
+	{
+		"job_name" : "Safety Technician I"
+	},
+	{
+		"job_name" : "Nuclear Power Engineer"
+	},
+	{
+		"job_name" : "Automation Specialist II"
+	},
+	{
+		"job_name" : "Human Resources Assistant II"
+	},
+	{
+		"job_name" : "Software Test Engineer II"
+	},
+	{
+		"job_name" : "Sales Representative"
+	},
+	{
+		"job_name" : "Financial Analyst"
+	},
+	{
+		"job_name" : "Editor"
+	},
+	{
+		"job_name" : "Biostatistician III"
+	},
+	{
+		"job_name" : "Media Manager II"
+	},
+	{
+		"job_name" : "Engineer III"
+	},
+	{
+		"job_name" : "Safety Technician II"
+	},
+	{
+		"job_name" : "Recruiting Manager"
+	},
+	{
+		"job_name" : "Social Worker"
+	},
+	{
+		"job_name" : "Accountant II"
+	},
+	{
+		"job_name" : "General Manager"
+	},
+	{
+		"job_name" : "Human Resources Assistant III"
+	},
+	{
+		"job_name" : "Research Assistant IV"
+	},
+	{
+		"job_name" : "Mechanical Systems Engineer"
+	},
+	{
+		"job_name" : "Associate Professor"
+	},
+	{
+		"job_name" : "Geologist III"
+	},
+	{
+		"job_name" : "Analyst Programmer"
+	},
+	{
+		"job_name" : "Web Designer II"
+	},
+	{
+		"job_name" : "Human Resources Manager"
+	},
+	{
+		"job_name" : "Developer IV"
+	},
+	{
+		"job_name" : "Software Test Engineer I"
+	},
+	{
+		"job_name" : "Biostatistician I"
+	},
+	{
+		"job_name" : "Research Associate"
+	},
+	{
+		"job_name" : "Cost Accountant"
+	},
+	{
+		"job_name" : "Engineer II"
+	},
+	{
+		"job_name" : "Developer II"
+	},
+	{
+		"job_name" : "Web Developer II"
+	},
+	{
+		"job_name" : "Account Representative II"
+	},
+	{
+		"job_name" : "Accounting Assistant I"
+	},
+	{
+		"job_name" : "Chemical Engineer"
+	},
+	{
+		"job_name" : "Senior Financial Analyst"
+	},
+	{
+		"job_name" : "Safety Technician III"
+	},
+	{
+		"job_name" : "Staff Scientist"
+	},
+	{
+		"job_name" : "Senior Sales Associate"
+	},
+	{
+		"job_name" : "Web Developer III"
+	},
+	{
+		"job_name" : "Environmental Specialist"
+	},
+	{
+		"job_name" : "Senior Cost Accountant"
+	},
+	{
+		"job_name" : "Engineer IV"
+	},
+	{
+		"job_name" : "Developer III"
+	},
+	{
+		"job_name" : "Research Assistant I"
+	},
+	{
+		"job_name" : "Biostatistician II"
+	},
+	{
+		"job_name" : "VP Sales"
+	},
+	{
+		"job_name" : "Health Coach I"
+	},
+	{
+		"job_name" : "Geologist I"
+	},
+	{
+		"job_name" : "Staff Accountant IV"
+	},
+	{
+		"job_name" : "Business Systems Development Analyst"
+	},
+	{
+		"job_name" : "Software Test Engineer III"
+	},
+	{
+		"job_name" : "Software Engineer III"
+	},
+	{
+		"job_name" : "Actuary"
+	},
+	{
+		"job_name" : "Administrative Assistant III"
+	},
+	{
+		"job_name" : "Registered Nurse"
+	},
+	{
+		"job_name" : "Staff Accountant III"
+	},
+	{
+		"job_name" : "Senior Quality Engineer"
+	},
+	{
+		"job_name" : "Geological Engineer"
+	},
+	{
+		"job_name" : "Internal Auditor"
+	},
+	{
+		"job_name" : "Office Assistant IV"
+	},
+	{
+		"job_name" : "Accountant III"
+	},
+	{
+		"job_name" : "Account Representative IV"
+	},
+	{
+		"job_name" : "Marketing Assistant"
+	},
+	{
+		"job_name" : "Analog Circuit Design manager"
+	},
+	{
+		"job_name" : "Payment Adjustment Coordinator"
+	},
+	{
+		"job_name" : "Design Engineer"
+	},
+	{
+		"job_name" : "Administrative Assistant I"
+	},
+	{
+		"job_name" : "Administrative Assistant II"
+	},
+	{
+		"job_name" : "Account Coordinator"
+	},
+	{
+		"job_name" : "Budget/Accounting Analyst II"
+	},
+	{
+		"job_name" : "Legal Assistant"
+	},
+	{
+		"job_name" : "Information Systems Manager"
+	},
+	{
+		"job_name" : "Structural Engineer"
+	},
+	{
+		"job_name" : "Quality Engineer"
+	},
+	{
+		"job_name" : "Statistician III"
+	},
+	{
+		"job_name" : "Programmer Analyst III"
+	},
+	{
+		"job_name" : "Media Manager III"
+	},
+	{
+		"job_name" : "Occupational Therapist"
+	},
+	{
+		"job_name" : "Programmer Analyst I"
+	},
+	{
+		"job_name" : "Software Consultant"
+	},
+	{
+		"job_name" : "Staff Accountant II"
+	},
+	{
+		"job_name" : "Nurse"
+	},
+	{
+		"job_name" : "Dental Hygienist"
+	},
+	{
+		"job_name" : "Quality Control Specialist"
+	},
+	{
+		"job_name" : "Software Engineer II"
+	},
+	{
+		"job_name" : "Developer"
+	},
+	{
+		"job_name" : "Human Resources Assistant IV"
+	},
+	{
+		"job_name" : "Geologist IV"
+	},
+	{
+		"job_name" : "Engineer I"
+	},
+	{
+		"job_name" : "Web Designer I"
+	},
+	{
+		"job_name" : "Health Coach II"
+	},
+	{
+		"job_name" : "Statistician I"
+	},
+	{
+		"job_name" : "Librarian"
+	},
+	{
+		"job_name" : "Help Desk Operator"
+	},
+	{
+		"job_name" : "Systems Administrator III"
+	},
+	{
+		"job_name" : "Physical Therapy Assistant"
+	},
+	{
+		"job_name" : "Biostatistician IV"
+	},
+	{
+		"job_name" : "Software Test Engineer IV"
+	},
+	{
+		"job_name" : "Software Engineer I"
+	},
+	{
+		"job_name" : "Operator"
+	},
+	{
+		"job_name" : "VP Product Management"
+	},
+	{
+		"job_name" : "Programmer III"
+	},
+	{
+		"job_name" : "Assistant Media Planner"
+	}
+]

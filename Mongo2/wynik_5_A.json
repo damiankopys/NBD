@@ -1,0 +1,371 @@
+MongoDB shell version v5.0.7
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("ba21b6b8-24c6-4ccf-800c-ec73ad9f9801") }
+MongoDB server version: 5.0.6
+[
+	{
+		"currency" : "NIO",
+		"avg_credit" : 4985.64,
+		"sum_of_credit" : 9971.28
+	},
+	{
+		"currency" : "NPR",
+		"avg_credit" : 5792.26,
+		"sum_of_credit" : 5792.26
+	},
+	{
+		"currency" : "HRK",
+		"avg_credit" : 4870.964,
+		"sum_of_credit" : 24354.82
+	},
+	{
+		"currency" : "HNL",
+		"avg_credit" : 5504.863333333334,
+		"sum_of_credit" : 16514.59
+	},
+	{
+		"currency" : "NZD",
+		"avg_credit" : 5328.46,
+		"sum_of_credit" : 5328.46
+	},
+	{
+		"currency" : "KZT",
+		"avg_credit" : 3788.95,
+		"sum_of_credit" : 3788.95
+	},
+	{
+		"currency" : "PEN",
+		"avg_credit" : 4661.235,
+		"sum_of_credit" : 18644.94
+	},
+	{
+		"currency" : "MKD",
+		"avg_credit" : 3835.05,
+		"sum_of_credit" : 3835.05
+	},
+	{
+		"currency" : "VEF",
+		"avg_credit" : 4166.64,
+		"sum_of_credit" : 8333.28
+	},
+	{
+		"currency" : "RUB",
+		"avg_credit" : 4989.547916666666,
+		"sum_of_credit" : 119749.15
+	},
+	{
+		"currency" : "BGN",
+		"avg_credit" : 5300.22,
+		"sum_of_credit" : 21200.88
+	},
+	{
+		"currency" : "IDR",
+		"avg_credit" : 4907.918030303031,
+		"sum_of_credit" : 323922.59
+	},
+	{
+		"currency" : "VND",
+		"avg_credit" : 4520.0325,
+		"sum_of_credit" : 36160.26
+	},
+	{
+		"currency" : "PYG",
+		"avg_credit" : 4874.69,
+		"sum_of_credit" : 4874.69
+	},
+	{
+		"currency" : "YER",
+		"avg_credit" : 4570.833333333333,
+		"sum_of_credit" : 13712.5
+	},
+	{
+		"currency" : "RWF",
+		"avg_credit" : 4632.88,
+		"sum_of_credit" : 4632.88
+	},
+	{
+		"currency" : "MGA",
+		"avg_credit" : 4853.663333333333,
+		"sum_of_credit" : 14560.99
+	},
+	{
+		"currency" : "DOP",
+		"avg_credit" : 5168.6849999999995,
+		"sum_of_credit" : 20674.739999999998
+	},
+	{
+		"currency" : "COP",
+		"avg_credit" : 4936.6825,
+		"sum_of_credit" : 19746.73
+	},
+	{
+		"currency" : "SRD",
+		"avg_credit" : 5286.68,
+		"sum_of_credit" : 5286.68
+	},
+	{
+		"currency" : "MMK",
+		"avg_credit" : 4629.42,
+		"sum_of_credit" : 4629.42
+	},
+	{
+		"currency" : "EGP",
+		"avg_credit" : 5579.3,
+		"sum_of_credit" : 5579.3
+	},
+	{
+		"currency" : "RSD",
+		"avg_credit" : 4276.56,
+		"sum_of_credit" : 4276.56
+	},
+	{
+		"currency" : "AMD",
+		"avg_credit" : 4921.866,
+		"sum_of_credit" : 24609.33
+	},
+	{
+		"currency" : "SEK",
+		"avg_credit" : 5060.013571428572,
+		"sum_of_credit" : 70840.19
+	},
+	{
+		"currency" : "BYR",
+		"avg_credit" : 5095.79,
+		"sum_of_credit" : 5095.79
+	},
+	{
+		"currency" : "GBP",
+		"avg_credit" : 6149.19,
+		"sum_of_credit" : 6149.19
+	},
+	{
+		"currency" : "ETB",
+		"avg_credit" : 5436.11,
+		"sum_of_credit" : 5436.11
+	},
+	{
+		"currency" : "BOB",
+		"avg_credit" : 5263.3,
+		"sum_of_credit" : 5263.3
+	},
+	{
+		"currency" : "MYR",
+		"avg_credit" : 4781.12,
+		"sum_of_credit" : 4781.12
+	},
+	{
+		"currency" : "NGN",
+		"avg_credit" : 4157.705,
+		"sum_of_credit" : 24946.23
+	},
+	{
+		"currency" : "KRW",
+		"avg_credit" : 6689.91,
+		"sum_of_credit" : 13379.82
+	},
+	{
+		"currency" : "MXN",
+		"avg_credit" : 5022.9,
+		"sum_of_credit" : 50229
+	},
+	{
+		"currency" : "THB",
+		"avg_credit" : 4604.392,
+		"sum_of_credit" : 23021.96
+	},
+	{
+		"currency" : "NOK",
+		"avg_credit" : 4773.66,
+		"sum_of_credit" : 4773.66
+	},
+	{
+		"currency" : "BWP",
+		"avg_credit" : 4076.29,
+		"sum_of_credit" : 4076.29
+	},
+	{
+		"currency" : "CAD",
+		"avg_credit" : 5306.872727272727,
+		"sum_of_credit" : 58375.6
+	},
+	{
+		"currency" : "KYD",
+		"avg_credit" : 3760.89,
+		"sum_of_credit" : 3760.89
+	},
+	{
+		"currency" : "JPY",
+		"avg_credit" : 5078.7283333333335,
+		"sum_of_credit" : 60944.74
+	},
+	{
+		"currency" : "PHP",
+		"avg_credit" : 4941.928333333333,
+		"sum_of_credit" : 118606.28
+	},
+	{
+		"currency" : "USD",
+		"avg_credit" : 4978.732,
+		"sum_of_credit" : 74680.98
+	},
+	{
+		"currency" : "XOF",
+		"avg_credit" : 5960.683333333333,
+		"sum_of_credit" : 17882.05
+	},
+	{
+		"currency" : "ARS",
+		"avg_credit" : 4648.4,
+		"sum_of_credit" : 23242
+	},
+	{
+		"currency" : "MWK",
+		"avg_credit" : 3574.42,
+		"sum_of_credit" : 3574.42
+	},
+	{
+		"currency" : "PKR",
+		"avg_credit" : 4734.5,
+		"sum_of_credit" : 18938
+	},
+	{
+		"currency" : "IRR",
+		"avg_credit" : 4417.373333333333,
+		"sum_of_credit" : 26504.239999999998
+	},
+	{
+		"currency" : "MNT",
+		"avg_credit" : 5428.9025,
+		"sum_of_credit" : 21715.61
+	},
+	{
+		"currency" : "ZMW",
+		"avg_credit" : 5569.56,
+		"sum_of_credit" : 5569.56
+	},
+	{
+		"currency" : "UZS",
+		"avg_credit" : 3573.03,
+		"sum_of_credit" : 3573.03
+	},
+	{
+		"currency" : "PLN",
+		"avg_credit" : 5042.821111111111,
+		"sum_of_credit" : 90770.78
+	},
+	{
+		"currency" : "CNY",
+		"avg_credit" : 4954.740842105263,
+		"sum_of_credit" : 470700.38
+	},
+	{
+		"currency" : "ZAR",
+		"avg_credit" : 3930.306666666667,
+		"sum_of_credit" : 11790.92
+	},
+	{
+		"currency" : "XPF",
+		"avg_credit" : 4759.07,
+		"sum_of_credit" : 4759.07
+	},
+	{
+		"currency" : "VUV",
+		"avg_credit" : 6418.27,
+		"sum_of_credit" : 6418.27
+	},
+	{
+		"currency" : "UAH",
+		"avg_credit" : 5058.9800000000005,
+		"sum_of_credit" : 40471.840000000004
+	},
+	{
+		"currency" : "IQD",
+		"avg_credit" : 4269.39,
+		"sum_of_credit" : 4269.39
+	},
+	{
+		"currency" : "XAF",
+		"avg_credit" : 4698.22,
+		"sum_of_credit" : 14094.66
+	},
+	{
+		"currency" : "MAD",
+		"avg_credit" : 3818.85,
+		"sum_of_credit" : 3818.85
+	},
+	{
+		"currency" : "ISK",
+		"avg_credit" : 4316.41,
+		"sum_of_credit" : 4316.41
+	},
+	{
+		"currency" : "CDF",
+		"avg_credit" : 6114.4,
+		"sum_of_credit" : 12228.8
+	},
+	{
+		"currency" : "CUP",
+		"avg_credit" : 5005.78,
+		"sum_of_credit" : 15017.34
+	},
+	{
+		"currency" : "BRL",
+		"avg_credit" : 4512.001818181819,
+		"sum_of_credit" : 49632.020000000004
+	},
+	{
+		"currency" : "CLP",
+		"avg_credit" : 5252.2375,
+		"sum_of_credit" : 21008.95
+	},
+	{
+		"currency" : "TJS",
+		"avg_credit" : 4087.71,
+		"sum_of_credit" : 4087.71
+	},
+	{
+		"currency" : "GTQ",
+		"avg_credit" : 5806.3,
+		"sum_of_credit" : 5806.3
+	},
+	{
+		"currency" : "LYD",
+		"avg_credit" : 4382.495,
+		"sum_of_credit" : 8764.99
+	},
+	{
+		"currency" : "ALL",
+		"avg_credit" : 3325.48,
+		"sum_of_credit" : 3325.48
+	},
+	{
+		"currency" : "ZWL",
+		"avg_credit" : 5792.17,
+		"sum_of_credit" : 5792.17
+	},
+	{
+		"currency" : "CZK",
+		"avg_credit" : 4644.5525,
+		"sum_of_credit" : 37156.42
+	},
+	{
+		"currency" : "TZS",
+		"avg_credit" : 3526.1850000000004,
+		"sum_of_credit" : 7052.370000000001
+	},
+	{
+		"currency" : "ILS",
+		"avg_credit" : 5431.83,
+		"sum_of_credit" : 16295.49
+	},
+	{
+		"currency" : "EUR",
+		"avg_credit" : 4901.8294,
+		"sum_of_credit" : 245091.47
+	},
+	{
+		"currency" : "AFN",
+		"avg_credit" : 5585.163333333334,
+		"sum_of_credit" : 16755.49
+	}
+]
