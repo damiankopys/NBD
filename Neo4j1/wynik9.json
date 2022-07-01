@@ -1,0 +1,574 @@
+﻿[
+  {
+    "movie": {
+"identity": 519,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 785,
+"start": 4,
+"end": 519,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 519,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 788,
+"start": 173,
+"end": 519,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 519,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 791,
+"start": 344,
+"end": 519,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 537,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 792,
+"start": 344,
+"end": 537,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 537,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 789,
+"start": 173,
+"end": 537,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 537,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "When patriots become heroes",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 786,
+"start": 4,
+"end": 537,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 793,
+"start": 344,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 344,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 787,
+"start": 4,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 790,
+"start": 173,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Johann Schmidt, Red Skull"
+        ]
+      }
+    },
+    "person": {
+"identity": 173,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1960,
+"name": "Hugo Weaving"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 780,
+"start": 554,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Bucky"
+        ]
+      }
+    },
+    "person": {
+"identity": 554,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Sebastian Stan"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 777,
+"start": 551,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Capitan America"
+        ]
+      }
+    },
+    "person": {
+"identity": 551,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1981,
+"name": "Chris Evans"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 782,
+"start": 548,
+"end": 547,
+"type": "DIRECTED",
+"properties": {
+
+      }
+    },
+    "person": {
+"identity": 548,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1950,
+"name": "Joe Johnston"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 781,
+"start": 555,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Chester Philips"
+        ]
+      }
+    },
+    "person": {
+"identity": 555,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1946,
+"name": "Tommy Lee Jones"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 784,
+"start": 550,
+"end": 547,
+"type": "WROTE",
+"properties": {
+
+      }
+    },
+    "person": {
+"identity": 550,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Stephen McFeely"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 783,
+"start": 549,
+"end": 547,
+"type": "WROTE",
+"properties": {
+
+      }
+    },
+    "person": {
+"identity": 549,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1970,
+"name": "Christopher Markus"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 779,
+"start": 553,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Peggy Carter"
+        ]
+      }
+    },
+    "person": {
+"identity": 553,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1982,
+"name": "Hayley Atwell"
+      }
+    }
+  },
+  {
+    "movie": {
+"identity": 547,
+"labels": [
+        "Movie"
+      ],
+"properties": {
+"tagline": "I knocked out Adolf Hitler over 200 times",
+"title": "Captain America: The First Avenger",
+"released": 2011
+      }
+    },
+    "relationship": {
+"identity": 778,
+"start": 552,
+"end": 547,
+"type": "ACTED_IN",
+"properties": {
+"roles": [
+          "Nick Fury"
+        ]
+      }
+    },
+    "person": {
+"identity": 552,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"born": 1948,
+"name": "Samuel L. Jackson"
+      }
+    }
+  }
+]
