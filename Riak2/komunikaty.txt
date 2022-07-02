@@ -1,0 +1,19 @@
+Wstawienie dokumentu do bazy:  <Response [204]> 
+
+
+Pobranie dokumentu z bazy:  <Response [200]>
+"{'Name': 'Mercedes GL', 'Horsepower': 550, 'Acceleration': 4.9, 'Year': '2012-01-01'}" 
+
+
+Update dokumentu w bazie:  <Response [204]> 
+
+
+Pobranie zmodyfikowanego dokumentu z bazy:  <Response [200]>
+"{'Name': 'Mercedes GL Brabus', 'Horsepower': 700, 'Acceleration': 4.2, 'Year': '2012-01-01'}" 
+
+
+Usunięcie dokumentu z bazy:  <Response [204]> 
+
+
+Próba pobrania dokumentu z bazy:  <Response [404]>
+not found
