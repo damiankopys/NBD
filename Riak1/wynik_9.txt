@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+X-Riak-Vclock: a85hYGBgzGDKBVI8ypz/fq5K91ZlYFAXzGBKZMxjZSiqNLnDlwUA
+Vary: Accept-Encoding
+Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+Link: </buckets/s25547>; rel="up"
+Last-Modified: Sat, 02 Jul 2022 08:10:26 GMT
+ETag: "2PV7PHclB8XAYvvaxCQ6Pe"
+Date: Sat, 02 Jul 2022 08:11:45 GMT
+Content-Type: application/json
+Content-Length: 21
+
+{'Name': 'Volvo V60'}

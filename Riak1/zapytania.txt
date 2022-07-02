@@ -1,0 +1,33 @@
+1
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/Camaro -H "Content-Type: application/json" -d "{'Name': 'Chevrolet Camaro', 'Horsepower': 290, 'Acceleration': 9.3, 'Year': '1968-01-01'}" > wynik_1.txt
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/Mustang -H "Content-Type: application/json" -d "{'Name': 'Ford Mustang', 'Horsepower': 450, 'Acceleration': 4.9, 'Year': '2015-01-01'}" > wynik_1-2.txt
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/Civic -H "Content-Type: application/json" -d "{'Name': 'Honda Civic', 'Horsepower': 200, 'Acceleration': 6.6, 'Year': '2007-01-01'}" > wynik_1-3.txt
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/A4 -H "Content-Type: application/json" -d "{'Name': 'Audi A4', 'Horsepower': 140, 'Acceleration': 9.5, 'Year': '2006-01-01'}" > wynik_1-4.txt
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/LS -H "Content-Type: application/json" -d "{'Name': 'Lexus LS', 'Horsepower': 300, 'Acceleration': 6.6, 'Year': '2005-01-01'}" > wynik_1-5.txt
+
+2
+curl -i -XGET http://localhost:8098/buckets/s25547/keys/Camaro > wynik_2.txt
+
+3
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/LS -H "Content-Type: application/json" -d "{'Name': 'Lexus LS', 'Horsepower': 300, 'Acceleration': 6.6, 'Year': '2005-01-01', 'Origin': 'Japan'}" > wynik_3.txt
+
+4
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/Civic -H "Content-Type: application/json" -d "{'Name': 'Honda Civic', 'Horsepower': 200, 'Acceleration': 6.6}" > wynik_4.txt
+
+5
+curl -i -XPUT http://localhost:8098/buckets/s25547/keys/Mustang -H "Content-Type: application/json" -d "{'Name': 'Ford Mustang', 'Horsepower': 520, 'Acceleration': 4.9, 'Year': '2015-01-01'}" > wynik_5.txt
+
+6
+curl -i -XDELETE http://localhost:8098/buckets/s25547/keys/Camaro > wynik_6.txt
+
+7
+curl -i -XGET http://localhost:8098/buckets/s25547/keys/Camaro > wynik_7.txt
+
+8
+curl -i -XPOST http://localhost:8098/buckets/s25547/keys -i -H "Content-Type: application/json" -d "{'Name': 'Volvo V60'}" > wynik_8.txt
+
+9
+curl -i -XGET http://localhost:8098/buckets/s25547/keys/UTo5k7JXCSvqLkF8uHh1lVDtqCx > wynik_9.txt
+
+10
+curl -i -XDELETE http://localhost:8098/buckets/s25547/keys/UTo5k7JXCSvqLkF8uHh1lVDtqCx > wynik_10.txt
